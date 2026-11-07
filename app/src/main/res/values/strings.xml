@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lockscreenapp</string>
+    <string name="accessibility_service_description">Locks the screen instantly when the app is launched.</string>
+</resources>
